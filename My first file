@@ -1,0 +1,26 @@
+<HTML>
+
+<HEAD>
+
+<title> SDE to SDC</title>
+
+</HEAD>
+
+<BODY>
+
+<H1>Hi there</H1> <H2> Myself Aditya Rawat, </H2>
+
+<P> I got to know about this task today on 29th Novemeber and started writing this code ASAP.<br> Unlike few students who can code well, I, on the contrary have a little knowledge about programming<br> and stufffs.<br>
+
+<B>But, </B> I'm not planning to accept it and want to explore the coding arena more.<br> With the help of SDC, I really want to become an SDE.<br>
+
+<H3> Thanks</H3>
+
+<input type="url">
+
+<input type="button" onclick="alert('Plz Guide Me')" value="Click Me!"> </form>
+
+<button> Submit </button>
+
+</BODY> 
+</HTML>
